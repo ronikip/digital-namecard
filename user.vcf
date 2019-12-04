@@ -7,7 +7,7 @@ ORG:MEET - Middle East Entrepreneurs of Tomorrow;
 TITLE:Evaluation and Information Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:rkipnis@meet.mit.edu
 TEL;type=WORK;type=VOICE:+972-54-5402-586
-item1.ADR;type=WORK;type=pref:;;3 Lincoln st.\, Jerusalem 9100702;;;POB 820
+item1.ADR;type=WORK;type=pref:;;3 Lincoln st.\nJerusalem 9100702\nPOB 820
 item1.X-ABADR:sg
 item2.URL;type=pref:https://meet.mit.edu
 item2.X-ABLabel:_$!<HomePage>!$_
